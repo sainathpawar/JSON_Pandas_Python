@@ -1,0 +1,31 @@
+[{
+	"name": "Sai",
+	"customerType": "Supplier",
+	"accountInfo": {
+		"acNo": "123",
+		"created": "2021-01-03",
+		"customerNo": "C23"
+	},
+	"txnxInfo": [{
+		"txnDate": "2021-01-03",
+		"type": "Credit",
+		"amount": "5000"
+	}, {
+		"txnDate": "2021-01-03",
+		"type": "Debit",
+		"amount": "1000"
+	}]
+}, {
+	"name": "Krishna",
+	"customerType": "Client",
+	"accountInfo": {
+		"acNo": "12345",
+		"created": "2021-02-03",
+		"customerNo": "C23"
+	},
+	"txnxInfo": [{
+		"txnDate": "2021-02-03",
+		"type": "Credit",
+		"amount": "5000"
+	}]
+}]

@@ -1,0 +1,25 @@
+[{
+  "gstin": "abc",
+  "filingType": "gstr1",
+  "filingDate": "2021-01-01",
+  "gtinType": "Supplier",
+  "contributio": "50000"
+}, {
+"gstin": "abc",
+"filingType": "gstr1",
+"filingDate": "2021-02-01",
+"gtinType": "Supplier",
+"contributio": "50000"
+}, {
+"gstin": "abc",
+"filingType": "gstr1",
+"filingDate": "2021-01-01",
+"gtinType": "Client",
+"contributio": "150000"
+}, {
+"gstin": "abc",
+"filingType": "gstr1",
+"filingDate": "2021-02-01",
+"gtinType": "Client",
+"contributio": "250000"
+}]
